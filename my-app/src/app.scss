@@ -1,0 +1,11 @@
+$color_blue: blue;
+$color_white: white;
+h1,
+p {
+  color: $color_blue;
+}
+
+button {
+  color: $color_white;
+  background-color: $color_blue;
+}
