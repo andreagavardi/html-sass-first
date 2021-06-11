@@ -1,6 +1,7 @@
 h1,
 p {
   color: blue;
+  background-color: rgba(29, 167, 29, 0.74);
 }
 
 button {

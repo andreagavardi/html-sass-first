@@ -1,8 +1,11 @@
 $color_blue: blue;
 $color_white: white;
+$color_green: rgba(29, 167, 29, 0.74);
+
 h1,
 p {
   color: $color_blue;
+  background-color: $color_green;
 }
 
 button {
